@@ -1,9 +1,9 @@
-# ОБЫЧНЫЙ КАЛЬКУЛЯТОР <br>
+## ОБЫЧНЫЙ КАЛЬКУЛЯТОР <br>
 Фон серо-белый. <br> 
 Есть кнопки. <br> 
 Знак +/-  -- это изменение числа с положительного на отрицательный и обратно. <br>
 Считает дробные, целые, положительные и отрицательные числа. <br>
-# Simple Calculator
+### Simple Calculator
 Gray-white background. <br>
 Buttons are visible. <br>
 The/- sign is the change from positive to negative. <br>
